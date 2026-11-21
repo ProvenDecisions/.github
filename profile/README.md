@@ -21,6 +21,12 @@ in optimization are added every month: ⭐ star or 👀 watch the repository to 
 | [optimization-monthly](https://github.com/ProvenDecisions/optimization-monthly) | the month's most eventful days in optimization |
 | [provendecisions-api](https://github.com/ProvenDecisions/provendecisions-api) | call the solver from your code or AI assistant |
 
+### 💬 Community
+
+**[Join the discussion](https://github.com/orgs/ProvenDecisions/discussions)**: ask and answer optimization questions,
+one board per topic (linear and integer programming, duality, networks, statistics and machine learning, finance,
+geometry and engineering). Start with the [welcome post](https://github.com/orgs/ProvenDecisions/discussions/1).
+
 ### 🔗 More from us
 
 - [Solved examples](https://proven-decisions.ai/examples?ref=github): step-by-step walkthroughs with the proof of optimality
