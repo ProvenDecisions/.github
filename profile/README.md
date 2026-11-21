@@ -17,6 +17,7 @@ in optimization are added every month: ⭐ star or 👀 watch the repository to 
 - [Solved examples](https://proven-decisions.ai/examples?ref=github): step-by-step walkthroughs with the proof of optimality
 - [Daily Update](https://proven-decisions.ai/daily?ref=github): new papers and practice in optimization, every day
 - [Articles](https://proven-decisions.ai/articles?ref=github) · [Notebooks](https://proven-decisions.ai/notebooks?ref=github) · [Free calculators](https://proven-decisions.ai/calculators?ref=github)
+- [Books](https://proven-decisions.ai/books?ref=github): Convex Optimization lecture notes and solutions manual, each with a free sample chapter
 - [API and MCP server](https://proven-decisions.ai/developers?ref=github): call the solver from your own code or AI assistant
 
 Follow us: [LinkedIn](https://www.linkedin.com/company/146977528/) · [Bluesky](https://bsky.app/profile/provendecisions.bsky.social) · [Mastodon](https://mastodon.social/@ProvenDecisions)
