@@ -8,9 +8,18 @@ solver (HiGHS, Clarabel, SCIP via cvxpy), never from a language model.
 ### 📓 Free notebooks
 
 **[optimization-examples](https://github.com/ProvenDecisions/optimization-examples)**: classic optimization problems as
-Jupyter notebooks (the problem, the model with a note on every line, cvxpy code and its real output, the checked
+Jupyter notebooks in 7 topics (the problem, the model with a note on every line, cvxpy code and its real output, the checked
 answer). Open any of them in Google Colab and press Run. New notebooks, tutorials and a monthly digest of what is new
 in optimization are added every month: ⭐ star or 👀 watch the repository to hear about them.
+
+### 📚 Our repositories
+
+| Repository | What is in it |
+|---|---|
+| [optimization-examples](https://github.com/ProvenDecisions/optimization-examples) | runnable notebooks in 7 topics, each answer checked |
+| [optimization-tutorials](https://github.com/ProvenDecisions/optimization-tutorials) | short lessons, the math explained line by line (new every month) |
+| [optimization-monthly](https://github.com/ProvenDecisions/optimization-monthly) | the month's most eventful days in optimization |
+| [provendecisions-api](https://github.com/ProvenDecisions/provendecisions-api) | call the solver from your code or AI assistant |
 
 ### 🔗 More from us
 
